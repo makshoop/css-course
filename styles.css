@@ -30,3 +30,20 @@ body {
     /* letter-spacing: 5px; */
     /* word-spacing: 42px; */
 }
+/* Box Model */
+.container {
+   max-width: 750px;
+   margin: auto;
+}
+
+.types {
+    background-color: green;
+    padding: 15px;
+    border: 5px solid red;
+    border-bottom-style: dotted;
+    border-top-width: 5px;
+    border-top-color: pink;
+    margin 5px;
+
+
+}
