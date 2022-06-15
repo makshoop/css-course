@@ -38,6 +38,8 @@ a:visited {
     box-shadow: 4px 3px 12px rgba(0, 0, 0, 0.25);
 }
 
+
+
 .info p {
     margin-bottom: 30px;
     color: #86898f;
@@ -56,6 +58,13 @@ a:visited {
 .info {
     display: flex;
     margin-bottom: 20px;
+}
+
+@media (max-width: 700px) {
+    .info {
+       text-align: center;
+        display: block;
+    } 
 }
 
 .info-text {
