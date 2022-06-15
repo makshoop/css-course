@@ -8,9 +8,15 @@ body {
   font-weight: normal;
   font-family: 'Roboto', sans-serif;
 
-  /* font: normal 16px 'Roboto', sans-serif;
+  /* font: normal 16px 'Roboto', sans-serif; */
 
   /* font-family: Cambria, Cochin, Georgia, Times,
-  'Times New Roman', serif
+  'Times New Roman', serif */
 
+}
+
+.avatar {
+    width: 200px;
+    border-radius: 28px;
+    box-shadow: 4px 3px 12px rgba(0, 0, 0, 0.25);
 }
